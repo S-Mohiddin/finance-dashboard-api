@@ -182,6 +182,11 @@ npm start      # Production
 **Mohi (Mohiddin)**
 Backend Developer 
 
+##  Sample Outputs
+
+Below are sample API responses:
+
+
 <img width="1560" height="1013" alt="Screenshot 2026-04-06 155618" src="https://github.com/user-attachments/assets/9e373a32-773e-4a5a-a26d-1f84308e6943" />
 <img width="1578" height="1005" alt="Screenshot 2026-04-06 155738" src="https://github.com/user-attachments/assets/dab6a3b8-e260-4d0d-9d78-c826a9dc63d9" />
 <img width="1572" height="1005" alt="Screenshot 2026-04-06 155914" src="https://github.com/user-attachments/assets/204165b9-1f5d-4e06-bc49-c5c6134d8a10" />
