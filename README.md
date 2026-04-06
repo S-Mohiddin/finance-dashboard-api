@@ -87,7 +87,7 @@ npm start      # Production
 
 ---
 
-## 👥 Role Permissions
+##  Role Permissions
 
 | Role    | Permissions                        |
 | ------- | ---------------------------------- |
@@ -146,7 +146,7 @@ npm start      # Production
 
 ---
 
-## 🧠 Key Highlights
+##  Key Highlights
 
 * Clean **MVC architecture**
 * Modular and scalable code structure
@@ -156,7 +156,7 @@ npm start      # Production
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express.js
